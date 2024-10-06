@@ -1,0 +1,1 @@
+A Customer Categorizer is a machine learning application that classifies customers into distinct categories based on their behavior, preferences, demographics, or other relevant attributes. This categorization helps businesses tailor marketing strategies, product recommendations, and customer support to each segment, ultimately improving customer satisfaction and driving growth.
